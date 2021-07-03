@@ -1,0 +1,99 @@
+D:\Skripsi_Dwiyani\New folder\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.exe
+D:\Skripsi_Dwiyani\New folder\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.pdb
+D:\Skripsi_Dwiyani\New folder\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.xml
+D:\Skripsi_Dwiyani\New folder\Data_Nasabah\Data_Nasabah\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Skripsi_Dwiyani\New folder\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Login.resources
+D:\Skripsi_Dwiyani\New folder\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Menu_Utama.resources
+D:\Skripsi_Dwiyani\New folder\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Resources.resources
+D:\Skripsi_Dwiyani\New folder\Data_Nasabah\Data_Nasabah\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Skripsi_Dwiyani\New folder\Data_Nasabah\Data_Nasabah\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Skripsi_Dwiyani\New folder\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.exe
+D:\Skripsi_Dwiyani\New folder\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.xml
+D:\Skripsi_Dwiyani\New folder\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.pdb
+D:\Skripsi_Dwiyani\APLIKASI PEMINJAMAN DANA\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.exe
+D:\Skripsi_Dwiyani\APLIKASI PEMINJAMAN DANA\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.xml
+D:\Skripsi_Dwiyani\APLIKASI PEMINJAMAN DANA\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.pdb
+D:\Skripsi_Dwiyani\APLIKASI PEMINJAMAN DANA\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.exe
+D:\Skripsi_Dwiyani\APLIKASI PEMINJAMAN DANA\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.pdb
+D:\Skripsi_Dwiyani\APLIKASI PEMINJAMAN DANA\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.xml
+D:\Skripsi_Dwiyani\APLIKASI PEMINJAMAN DANA\Data_Nasabah\Data_Nasabah\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Skripsi_Dwiyani\APLIKASI PEMINJAMAN DANA\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Login.resources
+D:\Skripsi_Dwiyani\APLIKASI PEMINJAMAN DANA\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Menu_Utama.resources
+D:\Skripsi_Dwiyani\APLIKASI PEMINJAMAN DANA\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Resources.resources
+D:\Skripsi_Dwiyani\APLIKASI PEMINJAMAN DANA\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Nasabah.resources
+D:\Skripsi_Dwiyani\APLIKASI PEMINJAMAN DANA\Data_Nasabah\Data_Nasabah\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Skripsi_Dwiyani\APLIKASI PEMINJAMAN DANA\Data_Nasabah\Data_Nasabah\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Skripsi_Dwiyani\APLIKASI PEMINJAMAN DANA\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Seleksi.resources
+D:\Skripsi_Dwiyani\APLIKASI PEMINJAMAN DANA\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Laporan.resources
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.exe
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.xml
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.pdb
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.exe
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.pdb
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.xml
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Login.resources
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Menu_Utama.resources
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Resources.resources
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Nasabah.resources
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Seleksi.resources
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.exe.config
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Print.resources
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Laporan.resources
+F:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.exe.config
+F:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.exe
+F:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.xml
+F:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.pdb
+F:\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.exe.config
+F:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.exe
+F:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.xml
+F:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.pdb
+F:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Laporan.resources
+F:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Login.resources
+F:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Menu_Utama.resources
+F:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Resources.resources
+F:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Nasabah.resources
+F:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Print.resources
+F:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Seleksi.resources
+F:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.exe.config
+G:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.exe
+G:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.xml
+G:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.pdb
+G:\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.exe
+G:\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.pdb
+G:\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.xml
+G:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.vbprojResolveAssemblyReference.cache
+G:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Laporan.resources
+G:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Login.resources
+G:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Menu_Utama.resources
+G:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Resources.resources
+G:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Nasabah.resources
+G:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Print.resources
+G:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Seleksi.resources
+G:\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.vbproj.GenerateResource.Cache
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PROGRAM SKRIPSI\Data_Nasabah\Data_Nasabah\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.exe.config
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.exe
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.xml
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.pdb
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.exe
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.pdb
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.xml
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Laporan.resources
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Login.resources
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Menu_Utama.resources
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Resources.resources
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Nasabah.resources
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Print.resources
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.Seleksi.resources
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Skripsi_Dwiyani\Data_Nasabah\Data_Nasabah\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VB NET\Data_Nasabah\Data_Nasabah\bin\Debug\Data_Nasabah.exe.config
+D:\VB NET\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.exe
+D:\VB NET\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.xml
+D:\VB NET\Data_Nasabah\Data_Nasabah\obj\x86\Debug\Data_Nasabah.pdb
